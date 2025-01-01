@@ -4,3 +4,4 @@ A virtual stock trading application using tkinter, selenium, requests and beauti
 # About
 
 This was one of my very first programming assignments. I am kind of working on a re-mastered version of it using AI
+https://jhonlarry1010.github.io/swingview/
